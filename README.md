@@ -1,4 +1,4 @@
-<h1 align="center">This is me, I think</h1>
+<h1 align="center">tech is cool, i guess</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=550&lines=Learning+about+AI+%26+Computer+Vision;Creating+End-to-End+Products;Designing+Rectangles+(iykyk);Making+Logistics+Easy+in+Mexico;I%27d+love+to+Build+Cars+someday" />
 </p>
