@@ -26,13 +26,6 @@
 
 ---
 
-## GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrunoSaPa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ## GitHub Stats & Streaks  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoSaPa&show_icons=true&theme=tokyonight" height="165" />
