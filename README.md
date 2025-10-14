@@ -6,18 +6,18 @@
 ---
 
 ## About Me  
-- 🎓 Currently studying at **Universidad Panamericana**, pursuing a degree in **Systems Engineering & Computer Graphics** — graduating in 2029  
-- 💼 Passionate about **businesses in software** and turning ideas into scalable products  
-- 📦 Currently working on making **logistics accessible and easy to use for everyone in Mexico**  
-- 🖼 Learning **computer vision** 
-- 🛠 Love creating **end-to-end products**: from concept → design → code → physical prototype  
-- ⌨️ I like designing rectangles (iykyk)
-- 🏎 Part of the **UP Lightning** team, building electric cars for Electraton  
-- 🌄 Dream project: **designing and building cars**  
+- Currently studying at **Universidad Panamericana**, pursuing a degree in **Systems Engineering & Computer Graphics** — graduating in 2029  
+- Passionate about **businesses in software** and turning ideas into scalable products  
+- Currently working on making **logistics accessible and easy to use for everyone in Mexico**  
+- Learning **computer vision** 
+- Love creating **end-to-end products**: from concept → design → code → physical prototype  
+- I like designing rectangles (iykyk)
+- Part of the **UP Lightning** team, building electric cars for Electraton  
+- Dream project: **designing and building cars**  
 
 ---
 
-## 🧰 My Tech Toolbox  
+## My Tech Toolbox  
 <p align="center">
   <code>JavaScript</code> <code>Python</code> <code>Node.js</code> <code>React</code> <code>Next.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>Prisma</code><br/>
  <code>Tailwind CSS</code> <code>Shadcn</code> <code>Fusion 360</code> <code>Blender</code><br/>
@@ -26,14 +26,14 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BrunoSaPa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-## 📈 GitHub Stats & Streaks  
+## GitHub Stats & Streaks  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoSaPa&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSaPa&theme=tokyonight" height="165" />
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 Weekly Coding Activity  
+## Weekly Coding Activity  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoSaPa&theme=tokyo-night" />
 </p>
