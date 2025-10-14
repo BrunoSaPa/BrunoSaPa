@@ -8,7 +8,7 @@
 ## About Me  
 - Currently studying at **Universidad Panamericana**, pursuing a degree in **Systems Engineering & Computer Graphics** — graduating in 2029  
 - Passionate about **businesses in software** and turning ideas into scalable products  
-- Currently working on making **logistics accessible and easy to use for everyone in Mexico**  
+- Currently working on making **logistics accessible and easy to use for everyone in Mexico**  shameless plug www.sendit.lat
 - Learning **computer vision** 
 - Love creating **end-to-end products**: from concept → design → code → physical prototype  
 - I like designing rectangles (iykyk)
