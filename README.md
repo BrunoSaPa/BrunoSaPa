@@ -19,7 +19,7 @@
 
 ## My Tech Toolbox  
 <p align="center">
-  <code>JavaScript</code> <code>Python</code> <code>Node.js</code> <code>React</code> <code>Next.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>Prisma</code><br/>
+  <code>JavaScript</code> <code>Python</code> <code>Node.js</code> <code>React</code> <code>Next.js</code> <code>Express.js</code> <code>PostgreSQL</code> <br/>
  <code>Tailwind CSS</code> <code>Shadcn</code> <code>Fusion 360</code> <code>Blender</code><br/>
   <code>KiCad</code> <code>CNC</code> <code>Injection Molding</code> <code>3D Printing</code>
 </p>
