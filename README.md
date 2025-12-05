@@ -11,7 +11,7 @@
 - Currently working on making **logistics accessible and easy to use for everyone in Mexico**  - shameless plug cough www.sendit.lat
 - Learning **computer vision** 
 - Love creating **end-to-end products**: from concept → design → code → physical prototype  
-- I like designing rectangles (iykyk)
+- I like designing rectangles to type on (iykyk)
 - Part of the **UP Lightning** team, building electric cars for Electraton  
 - Dream project: **designing and building cars**  
 
