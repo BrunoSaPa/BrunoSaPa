@@ -28,6 +28,6 @@
 
 <p align="center">
   <a href="https://www.brunosanchez.me/">
-    <img src="https://github.com/BrunoSaPa/BrunoSaPa/blob/main/flowerAsset.webp width="600">
+    <img src="https://raw.githubusercontent.com/BrunoSaPa/BrunoSaPa/main/flowerAsset.webp" width="600" />
   </a>
 </p>
