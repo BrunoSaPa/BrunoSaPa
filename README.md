@@ -24,19 +24,3 @@
   <code>KiCad</code> <code>CNC</code> <code>Injection Molding</code> <code>3D Printing</code>
 </p>
 
----
-
-## GitHub Stats & Streaks  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoSaPa&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoSaPa&theme=tokyonight" height="165" />
-</p>
-
----
-
-## Weekly Coding Activity  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoSaPa&theme=tokyo-night" />
-</p>
-
----
