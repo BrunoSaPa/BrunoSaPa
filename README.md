@@ -24,3 +24,10 @@
   <code>KiCad</code> <code>CNC</code> <code>Injection Molding</code> <code>3D Printing</code>
 </p>
 
+---
+
+<p align="center">
+  <a href="https://www.brunosanchez.me/">
+    <img src="https://ibb.co/JF01dHKc" width="600">
+  </a>
+</p>
